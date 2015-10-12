@@ -10,6 +10,7 @@
 * [sinon](https://github.com/sinonjs/sinon) 用来模拟函数行为
 * [proxyquire](https://github.com/thlorenz/proxyquire) 替换node模块中的require
 * [istanbul](https://github.com/gotwarlost/istanbul) 生成测试覆盖率报告
+* [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
 
 ## promise
 * [q](https://github.com/kriskowal/q) 最基础的promise实现
