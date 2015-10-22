@@ -46,13 +46,11 @@
 * [angularjs](https://github.com/angular/angular) MVVM框架，支持模板，路由，promise。
 * [react](https://github.com/facebook/react)
 
-## 前端PC应用开发
-
-* [nwjs](https://github.com/nwjs/nw.js) 写网页的方式开发桌面应用
-
-
-## 前端移动应用开发
-* [phonegap](https://github.com/sintaxi/phonegap) 写网页的方式开发手机应用
+## 应用开发
+用开发web应用的方式开发电脑，平板，手机上的应用
+* [nwjs](https://github.com/nwjs/nw.js) 跨平台PC应用开发
+* [electron] (https://github.com/atom/electron) 跨平台PC应用开发
+* [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
 
 ## 贡献
 * 如果对内容有任何疑问，可以提 issue。
