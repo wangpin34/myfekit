@@ -18,7 +18,17 @@
 * [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
 
 ## js 依赖管理
-* [bower] (http://bower.io/) js 前端依赖管理，npm是node依赖管理
+* [bower] (http://bower.io/) js 前端依赖管理，npm是node依赖管理。
+   设置代理：
+   编辑.bowerrc文件
+```
+{
+  ...
+  "proxy": "http://proxy.com:8080",
+  "https-proxy": "http://proxy.com:8080",
+  ...
+}
+```
 
 ## promise
 * [q](https://github.com/kriskowal/q) 最基础的promise实现
