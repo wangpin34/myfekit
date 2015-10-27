@@ -5,7 +5,7 @@
 * [node](https://nodejs.org/dist/) 不同于个人学习，项目组使用的node版本一般都不是最新的。这个链接下是所有的node版本。
 
 ## 工具
-* [jetbrains] (http://www.jetbrains.com/) 这个网站做了很多不错的ide
+* [jetbrains] (http://www.jetbrains.com/) 这个网站做了很多不错的IDE
 
 ## 单元测试
 
@@ -16,6 +16,9 @@
 * [proxyquire](https://github.com/thlorenz/proxyquire) 替换node模块中的require
 * [istanbul](https://github.com/gotwarlost/istanbul) 生成测试覆盖率报告
 * [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
+
+## js 依赖管理
+* [bower] (http://bower.io/) js 前端依赖管理，npm是node依赖管理
 
 ## promise
 * [q](https://github.com/kriskowal/q) 最基础的promise实现
