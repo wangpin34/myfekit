@@ -42,9 +42,11 @@
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
 
 ## 前端工程化
-* [bower](https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
-* [grunt](https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。解放生产力
-* [gulp](https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
+* [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
+* [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。解放生产力
+* [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
+* [浏览器同步测试工具] (http://www.browsersync.cn/)
+* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
 
 ## 模板引擎
 
