@@ -6,6 +6,9 @@
 
 ## 工具
 * [jetbrains] (http://www.jetbrains.com/) 这个网站做了很多不错的IDE
+* [rawgit] (http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
+  比如一个js文件，如果直接通过github访问，这个文件的mime-type是plain/text,它是不会在浏览器中自动运行的。
+
 
 ## 单元测试
 
@@ -19,6 +22,7 @@
 
 ## js 依赖管理
 * [bower] (http://bower.io/) js 前端依赖管理，npm是node依赖管理。
+   
    设置代理：
    编辑.bowerrc文件
 ```
@@ -41,7 +45,7 @@
 ## 数据库
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
 
-## 前端工程化
+## 前端工程
 * [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
 * [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。解放生产力
 * [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
