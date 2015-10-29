@@ -35,8 +35,10 @@
 ```
 
 ## promise
-* [q](https://github.com/kriskowal/q) 最基础的promise实现
-* [bluebird](https://github.com/petkaantonov/bluebird) 功能更加丰富的promise库
+promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。
+* [q] (https://github.com/kriskowal/q) 最基础的promise实现
+* [bluebird] (https://github.com/petkaantonov/bluebird) 功能更加丰富的promise库
+* [axios] (https://github.com/mzabriskie/axios) 基于标准promise的http client，包括ajax client和node client
 
 ## http
 * [request](https://github.com/request/request) 封装了原生http的库
