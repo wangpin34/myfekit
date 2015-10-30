@@ -39,6 +39,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [q] (https://github.com/kriskowal/q) 最基础的promise实现
 * [bluebird] (https://github.com/petkaantonov/bluebird) 功能更加丰富的promise库
 * [axios] (https://github.com/mzabriskie/axios) 基于标准promise的http client，包括ajax client和node client
+* [continuation-local-storage](https://www.npmjs.com/package/continuation-local-storage) 用于在方法调用链（比如promise的then链）中设置和自动获取变量。 sequelize使用它在链中存储transaction对象。
 
 ## http
 * [request](https://github.com/request/request) 封装了原生http的库
