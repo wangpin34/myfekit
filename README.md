@@ -84,10 +84,6 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [electron] (https://github.com/atom/electron) 跨平台PC应用开发
 * [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
 
-## 贡献
-* 如果对内容有任何疑问，可以提 issue。
-* 如果觉得有需要补充的内容，欢迎 pull request。
-
 
 ## LICENSE
 
