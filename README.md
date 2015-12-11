@@ -49,17 +49,21 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
 
 ## 前端工程
-* [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
+### 构建
 * [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。
 * [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
-* [浏览器同步测试工具] (http://www.browsersync.cn/)
-* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
-* [babel](http://babeljs.io/) 是一个js编译器，通过[es6插件](http://babeljs.io/docs/plugins/preset-es2015/)的支持,babel将es6代码编译成主流浏览器兼容的js。
+### 模块管理
+* [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
+*  [babel](http://babeljs.io/) 是一个js编译器，通过[es6插件](http://babeljs.io/docs/plugins/preset-es2015/)的支持,babel将es6代码编译成主流浏览器兼容的js。
 * [browserify](http://browserify.org/) 将require函数扩展到浏览器环境，使的nodejs代码可以在浏览器运行。
 >Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node.
 * [webpack](http://webpack.github.io/) 不仅是js，webpack可以管理所有静态资源，包括 css，图片，等等。
 * [requirejs](http://www.requirejs.org/)
 * [seajs](http://seajs.org/docs/)
+### 其他
+* [浏览器同步测试工具] (http://www.browsersync.cn/)
+* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
+
 ## 模板引擎
 
 
@@ -71,7 +75,8 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 ## 前端框架
 
 * [angularjs](https://github.com/angular/angular) MVVM框架，支持模板，路由，promise。
-* [react](https://github.com/facebook/react)
+* [react](https://github.com/facebook/react) 前端组件
+* [vuejs](http://cn.vuejs.org/) 双向数据绑定
 
 ## 应用开发
 用开发web应用的方式开发电脑，平板，手机上的应用
