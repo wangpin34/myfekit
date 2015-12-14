@@ -6,23 +6,13 @@
 
 ## 工具
 * [jetbrains] (http://www.jetbrains.com/) 这个网站做了很多不错的IDE
-* [rawgit] (http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
-  比如一个js文件，如果直接通过github访问，这个文件的mime-type是plain/text,它是不会在浏览器中自动运行的。
 
-
-## 单元测试
-
-* [mocha](https://github.com/mochajs/mocha)单元测试框架
-* [chai](https://github.com/chaijs/chai) 断言库，支持BDD和TDD两种风格
-* [chai-as-promised](https://github.com/domenic/chai-as-promised) 支持promise风格的断言，搭配chai使用可以测试返回promise的函数
-* [sinon](https://github.com/sinonjs/sinon) 用来模拟函数行为
-* [proxyquire](https://github.com/thlorenz/proxyquire) 替换node模块中的require
-* [istanbul](https://github.com/gotwarlost/istanbul) 生成测试覆盖率报告
-* [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
-
-## js 依赖管理
-* [bower] (http://bower.io/) js 前端依赖管理，npm是node依赖管理。
-   
+## 前端工程
+### 构建
+* [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。
+* [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
+### 模块管理
+* [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
    设置代理：
    编辑.bowerrc文件
 ```
@@ -33,6 +23,29 @@
   ...
 }
 ```
+*  [babel](http://babeljs.io/) 是一个js编译器，通过[es6插件](http://babeljs.io/docs/plugins/preset-es2015/)的支持,babel将es6代码编译成主流浏览器兼容的js。
+* [browserify](http://browserify.org/) 将require函数扩展到浏览器环境，使的nodejs代码可以在浏览器运行。
+>Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node.
+* [webpack](http://webpack.github.io/) 不仅是js，webpack可以管理所有静态资源，包括 css，图片，等等。
+* [requirejs](http://www.requirejs.org/)
+* [seajs](http://seajs.org/docs/)
+### css 预处理器
+* [sass](https://github.com/sass/node-sass)[在线处理](http://sassmeister.com/)
+* [less]()
+
+### 单元测试
+
+* [mocha](https://github.com/mochajs/mocha)单元测试框架
+* [chai](https://github.com/chaijs/chai) 断言库，支持BDD和TDD两种风格
+* [chai-as-promised](https://github.com/domenic/chai-as-promised) 支持promise风格的断言，搭配chai使用可以测试返回promise的函数
+* [sinon](https://github.com/sinonjs/sinon) 用来模拟函数行为
+* [proxyquire](https://github.com/thlorenz/proxyquire) 替换node模块中的require
+* [istanbul](https://github.com/gotwarlost/istanbul) 生成测试覆盖率报告
+* [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
+
+### 其他
+* [浏览器同步测试工具] (http://www.browsersync.cn/)
+* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
 
 ## promise
 promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。
@@ -48,28 +61,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 ## 数据库
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
 
-## 前端工程
-### 构建
-* [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。
-* [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
-### 模块管理
-* [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
-*  [babel](http://babeljs.io/) 是一个js编译器，通过[es6插件](http://babeljs.io/docs/plugins/preset-es2015/)的支持,babel将es6代码编译成主流浏览器兼容的js。
-* [browserify](http://browserify.org/) 将require函数扩展到浏览器环境，使的nodejs代码可以在浏览器运行。
->Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node.
-* [webpack](http://webpack.github.io/) 不仅是js，webpack可以管理所有静态资源，包括 css，图片，等等。
-* [requirejs](http://www.requirejs.org/)
-* [seajs](http://seajs.org/docs/)
-### css 预处理器
-* [sass](https://github.com/sass/node-sass)[在线处理](http://sassmeister.com/)
-* [less]()
-
-### 其他
-* [浏览器同步测试工具] (http://www.browsersync.cn/)
-* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
-
 ## 模板引擎
-
 
 ## web应用框架
 
@@ -88,6 +80,9 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [electron] (https://github.com/atom/electron) 跨平台PC应用开发
 * [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
 
+## 其他
+* [rawgit] (http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
+  比如一个js文件，如果直接通过github访问，这个文件的mime-type是plain/text,它是不会在浏览器中自动运行的。
 
 ## LICENSE
 
