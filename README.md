@@ -80,6 +80,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [nwjs](https://github.com/nwjs/nw.js) 跨平台PC应用开发
 * [electron] (https://github.com/atom/electron) 跨平台PC应用开发
 * [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
+* [react native]()
 
 ## 其他
 * [rawgit] (http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
