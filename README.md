@@ -9,8 +9,11 @@
 
 ## 前端工程
 ### 构建
-* [grunt] (https://github.com/gruntjs/grunt) 自定义任务，测试，压缩，打包，一键搞定。
-* [gulp] (https://github.com/gulpjs/gulp) 基于流的工程系统，更快，更简单
+* [grunt] (https://github.com/gruntjs/grunt) 自定义构建任务，测试，压缩，打包，一键搞定。
+* [gulp] (https://github.com/gulpjs/gulp) 基于流的构建，更快，更简单 
+   [doc](https://github.com/gulpjs/gulp/tree/master/docs)
+   [plugins](http://gulpjs.com/plugins/)
+
 ### 模块管理
 * [bower] (https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
    设置代理：
