@@ -45,8 +45,12 @@
 * [jasmine BDD风格的测试框架](http://jasmine.github.io/edge/introduction.html)
 
 ### 其他
-* [浏览器同步测试工具] (http://www.browsersync.cn/)
-* [Gulp.js-livereload 实时刷新页面] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
+### 监测文件修改，自动刷新页面
+
+* [browser sync] (https://www.browsersync.io/) 
+  [doc](https://www.browsersync.io/docs/)
+  [work within gulp](https://www.browsersync.io/docs/gulp/)
+* [Gulp.js-livereload] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
 
 ## promise
 promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。
