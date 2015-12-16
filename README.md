@@ -10,6 +10,8 @@
 ## 前端工程
 ### 构建
 * [grunt] (https://github.com/gruntjs/grunt) 自定义构建任务，测试，压缩，打包，一键搞定。
+  [doc](http://gruntjs.com/)
+  [中文](http://www.gruntjs.net/getting-started)
 * [gulp] (https://github.com/gulpjs/gulp) 基于流的构建，更快，更简单 
    [doc](https://github.com/gulpjs/gulp/tree/master/docs)
    [plugins](http://gulpjs.com/plugins/)
