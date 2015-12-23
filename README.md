@@ -89,6 +89,9 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 
 * [angularjs](https://github.com/angular/angular) MVVM框架，支持模板，路由，promise。
 * [react](https://github.com/facebook/react) 前端组件
+  
+  前端路由
+  *[react-router](https://github.com/rackt/react-router)
 * [vuejs](http://cn.vuejs.org/) 双向数据绑定
 
 ## 应用开发
