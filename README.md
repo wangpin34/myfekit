@@ -57,6 +57,9 @@
   [work within gulp](https://www.browsersync.io/docs/gulp/)
 * [Gulp.js-livereload] (https://cnodejs.org/topic/53427d16dc556e3b3901861e)
 
+### 监测文件修改，自动重启 node 服务
+* [nodemon](https://github.com/remy/nodemon)
+
 ## promise
 promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。
 * [q] (https://github.com/kriskowal/q) 最基础的promise实现
