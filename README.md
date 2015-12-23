@@ -81,6 +81,8 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 ## web应用框架
 
 * [express](https://github.com/strongloop/express)
+  express 的模板引擎
+  * [hbs](https://github.com/barc/express-hbs)
 * [koa](https://github.com/koajs/koa)
 
 ## 前端框架
