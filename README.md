@@ -93,7 +93,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [react](https://github.com/facebook/react) 前端组件
   
   前端路由
-  * [react-router](https://github.com/rackt/react-router)
+  * [react-router](https://github.com/rackt/react-router) [docs](https://github.com/rackt/react-router/tree/latest/docs)
 * [vuejs](http://cn.vuejs.org/) 双向数据绑定
 
 ## 应用开发
