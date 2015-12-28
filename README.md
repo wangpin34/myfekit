@@ -38,9 +38,10 @@
 * [seajs](http://seajs.org/docs/)
 
 ### css 预处理器
-* [sass](https://github.com/sass/node-sass)[在线处理](http://sassmeister.com/)
+* [sass](https://github.com/sass/node-sass)[try](http://sassmeister.com/)
 * [less]()
-* [styl](https://github.com/tj/styl)
+* [stylus](http://stylus-lang.com/) [try](http://stylus-lang.com/try.html)
+* [autoprefixer](https://github.com/postcss/autoprefixer) 自动加上浏览器前缀。[try](http://autoprefixer.github.io/)
 
 ### 单元测试
 
