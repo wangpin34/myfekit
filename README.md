@@ -65,7 +65,7 @@
 * [nodemon](https://github.com/remy/nodemon)
 
 ## promise
-promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。
+promise是对于javascript callback的改进，是一种新的流程管理思想。基于promise标准，产生了很多promise库。es6增加了原生的promise。
 * [q](https://github.com/kriskowal/q) 最基础的promise实现
 * [bluebird](https://github.com/petkaantonov/bluebird) 功能更加丰富的promise库
 * [axios](https://github.com/mzabriskie/axios) 基于标准promise的http client，包括ajax client和node client
@@ -79,6 +79,12 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
 
 ## 模板引擎
+* jad
+* hbs
+* ejs
+
+## UI
+* [app-UI](https://github.com/triceam/app-UI)
 
 ## web应用框架
 
