@@ -71,9 +71,10 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [axios](https://github.com/mzabriskie/axios) 基于标准promise的http client，包括ajax client和node client
 * [continuation-local-storage](https://www.npmjs.com/package/continuation-local-storage) 用于在方法调用链（比如promise的then链）中设置和自动获取变量。 sequelize使用它在链中存储transaction对象。
 
-## http
+## http & ajax
 * [request](https://github.com/request/request) 封装了原生http的库
 * [request-promise](https://github.com/request/request-promise) promise风格的http request库
+* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) 流行的 fetch 库
 
 ## 数据库
 * [sequlize](https://github.com/sequelize/sequelize) promise风格的orm框架。支持简单的事务处理。
