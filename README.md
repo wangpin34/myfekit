@@ -6,6 +6,7 @@
 
 ## 工具
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
+* [es6 fiddle])(http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
 
 ## 前端工程
 ### 构建
