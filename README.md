@@ -7,6 +7,7 @@
 ## 工具
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
 * [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
+* [atom - editor](https://github.com/atom/atom)
 
 ## 前端工程
 ### 构建
@@ -110,11 +111,19 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [nwjs](https://github.com/nwjs/nw.js) 跨平台PC应用开发
 * [electron](https://github.com/atom/electron) 跨平台PC应用开发
 * [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
-* [react native]()
+* [react native](https://github.com/facebook/react-native)
+* [ionic - HTML5 mobile development framework and SDK](https://github.com/driftyco/ionic)
 
 ## 其他
 * [rawgit](http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
   比如一个js文件，如果直接通过github访问，这个文件的mime-type是plain/text,它是不会在浏览器中自动运行的。
+ 
+github.com/your-name/your-repo/your-branch/your-file 
+
+  For development => **rawgit.com**/your-name/your-repo/your-branch/your-file
+  
+  For production(cdn) =>  **cdn.rawgit.com**/your-name/your-repo/your-branch/your-file
+  
 
 ## LICENSE
 
