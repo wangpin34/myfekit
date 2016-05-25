@@ -104,7 +104,8 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
   
   前端路由
   * [react-router](https://github.com/rackt/react-router) [docs](https://github.com/rackt/react-router/tree/latest/docs)
-* [vuejs](http://cn.vuejs.org/) 双向数据绑定
+* [vuejs](http://cn.vuejs.org/) 简单灵活的模块框架，社区非常活跃，最新的 es6，模块化，css预处理都支持，flux
+  * [vue-loader](http://vue-loader.vuejs.org/en/) 加载 vue 模块
 
 ## 应用开发
 用开发web应用的方式开发电脑，平板，手机上的应用
