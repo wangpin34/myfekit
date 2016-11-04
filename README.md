@@ -7,7 +7,8 @@
 ## 工具
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
 * [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
-* [atom](https://github.com/atom/atom) github 官方开发的IDE
+* [atom](https://github.com/atom/atom) github 官方开发的IDE，在一个窗口中可以放置多个项目，缺点是不太稳定。打开大文件有时候会卡死
+* [sublime](https://www.sublimetext.com/) 很不错的文本编辑器，插件丰富，功能强大
 
 ## 前端工程
 ### 构建
@@ -44,9 +45,9 @@
 ### css 预处理器
 css 本身不支持导入，变量，嵌套等特性，而预处理器可以让我们像编程一样编写css。
 * [sass](https://github.com/sass/node-sass)  [try](http://sassmeister.com/)
-* [less]()
-* [stylus](http://stylus-lang.com/)  [try](http://stylus-lang.com/try.html)
-* [autoprefixer](https://github.com/postcss/autoprefixer) 自动加上浏览器前缀。  [try](http://autoprefixer.github.io/)
+* [less](http://lesscss.org/) [try it online](http://less2css.org/)
+* [stylus](http://stylus-lang.com/)  [try it online](http://stylus-lang.com/try.html)
+* [autoprefixer](https://github.com/postcss/autoprefixer) 自动加上浏览器前缀。  [try it online](http://autoprefixer.github.io/)
 
 ### 单元测试
 
