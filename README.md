@@ -2,7 +2,7 @@
 收集和整理了一些前端开发常用的工具和库。
 
 ## 常用下载
-* [node](https://nodejs.org/dist/) 不同于个人学习，项目组使用的node版本一般都不是最新的。这个链接下是所有的node版本。
+* [node](https://nodejs.org/dist/) 项目组使用的node版本一般都不是最新的。这个链接下是所有的node版本。
 
 ## 工具
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
