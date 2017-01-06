@@ -7,9 +7,9 @@
 ## 工具
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
 * [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
-* [atom](https://github.com/atom/atom) github 官方开发的IDE，在一个窗口中可以放置多个项目，缺点是不太稳定。打开大文件有时候会卡死
-* [sublime](https://www.sublimetext.com/) 很不错的文本编辑器，插件丰富，功能强大
-
+* [atom](https://github.com/atom/atom) github 官方开发的IDE.
+* [sublime](https://www.sublimetext.com/) 很不错的文本编辑器，插件丰富，功能强大.
+* [visual studio code] 微软出品的编辑器，和 atom 一样基于 electron 。集成了 git，单步调试，和命令行等实用工具。
 ## 前端工程
 ### 构建
 * [grunt](https://github.com/gruntjs/grunt) 自定义构建任务，测试，压缩，打包，一键搞定。
@@ -18,8 +18,8 @@
 * [gulp](https://github.com/gulpjs/gulp) 基于流的构建，更快，更简单 
    [doc](https://github.com/gulpjs/gulp/tree/master/docs)
    [plugins](http://gulpjs.com/plugins/)
+   * [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) 过滤 console，debug，alert 代码。
    
-
 ### 模块管理
 * [bower](https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
    
