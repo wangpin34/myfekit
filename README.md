@@ -9,9 +9,10 @@
 * [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
 * [atom](https://github.com/atom/atom) github 官方开发的IDE.
 * [sublime](https://www.sublimetext.com/) 很不错的文本编辑器，插件丰富，功能强大.
-* [visual studio code] 微软出品的编辑器，和 atom 一样基于 electron 。集成了 git，单步调试，和命令行等实用工具。
+* [visual studio code](https://code.visualstudio.com/) 微软出品的编辑器，和 atom 一样基于 electron 。集成了 git，单步调试，和命令行等实用工具。
+
 ## 前端工程
-### 构建
+### 自动化任务
 * [grunt](https://github.com/gruntjs/grunt) 自定义构建任务，测试，压缩，打包，一键搞定。
   [doc](http://gruntjs.com/)
   [中文](http://www.gruntjs.net/getting-started)
@@ -20,7 +21,7 @@
    [plugins](http://gulpjs.com/plugins/)
    * [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) 过滤 console，debug，alert 代码。
    
-### 模块管理
+### 依赖/模块/编译
 * [bower](https://github.com/bower/bower) 前端js包管理工具，可以解决繁复的前端js依赖关系
    
    设置代理：
@@ -97,6 +98,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 
 ## UI
 * [app-UI](https://github.com/triceam/app-UI)
+* [material-ui](http://www.material-ui.com/)
 
 ## web应用框架
 
@@ -106,7 +108,7 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
   * [hbs](https://github.com/barc/express-hbs)
 * [koa](https://github.com/koajs/koa)
 
-## 前端框架
+## 前端框架/库
 
 * [angularjs](https://github.com/angular/angular) MVVM框架，支持模板，路由，promise。
 * [react](https://github.com/facebook/react) 前端组件
