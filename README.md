@@ -4,12 +4,23 @@
 ## 常用下载
 * [node](https://nodejs.org/dist/) 项目组使用的node版本一般都不是最新的。这个链接下是所有的node版本。
 
+## 在线学习
+* [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性) - 最近不能使用
+
 ## 工具
+
+### 编辑器/IDE
+
 * [jetbrains](http://www.jetbrains.com/) 这个网站做了很多不错的IDE
-* [es6 fiddle](http://www.es6fiddle.net/) 在线es6。方便学习es6语法和特性
 * [atom](https://github.com/atom/atom) github 官方开发的IDE.
 * [sublime](https://www.sublimetext.com/) 很不错的文本编辑器，插件丰富，功能强大.
 * [visual studio code](https://code.visualstudio.com/) 微软出品的编辑器，和 atom 一样基于 electron 。集成了 git，单步调试，和命令行等实用工具。
+
+### diff 工具
+* Meld
+* BeyondCompare
+* [Online text-compare](https://text-compare.com/)
+
 
 ## 前端工程
 ### 自动化任务
