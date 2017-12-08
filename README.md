@@ -145,7 +145,8 @@ github.com/your-name/your-repo/your-branch/your-file
   
   For production(cdn) =>  **cdn.rawgit.com**/your-name/your-repo/your-branch/your-file
   
-
+* [unpkg](https://unpkg.com/#/)
+  npm package 内容分发平台， npm 的 cdn
 ## LICENSE
 
 MIT
