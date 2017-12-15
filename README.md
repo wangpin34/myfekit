@@ -53,6 +53,7 @@
 * [webpack](http://webpack.github.io/) 管理所有静态资源，包括 css，图片，等等。
 * [requirejs](http://www.requirejs.org/)
 * [seajs](http://seajs.org/docs/)
+* [rollup](https://rollupjs.org/zh) 
 
 ### css 预处理器
 css 本身不支持导入，变量，嵌套等特性，而预处理器可以让我们像编程一样编写css。
