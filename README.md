@@ -112,15 +112,19 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 ## UI
 * [app-UI](https://github.com/triceam/app-UI)
 * [material-ui](http://www.material-ui.com/)
+* [element ui](https://github.com/ElemeFE/element) 饿了么前端 vuejs 2.0 ui 框架
+* [iview](https://github.com/iview/iview) 曾经和 element ui 闹过抄袭风波的 vuejs 2.0 ui 框架
+* [ant-design](https://github.com/ant-design) 蚂蚁金服 UI 设计语言
+  旗下包含 antd pro/antd mobile 等多个设计和ui项目
+
 
 ## web应用框架
 
 * [express](https://github.com/strongloop/express)
-  
   express 的模板引擎
   * [hbs](https://github.com/barc/express-hbs)
 * [koa](https://github.com/koajs/koa)
-
+* [hapi](https://github.com/hapijs/hapi) API 框架
 ## 前端框架/库
 
 * [angularjs](https://github.com/angular/angular) MVVM框架，支持模板，路由，promise。
@@ -136,6 +140,9 @@ promise是对于javascript callback的改进，是一种新的流程管理思想
 * [phonegap](https://github.com/sintaxi/phonegap) 跨平台手机应用开发
 * [react native](https://github.com/facebook/react-native)
 * [ionic - HTML5 mobile development framework and SDK](https://github.com/driftyco/ionic)
+
+## 身份验证/安全
+* [jwt token 解码](https://jwt.io/)
 
 ## 其他
 * [rawgit](http://rawgit.com/) 可以为github上的资源添加适合的 content-type，以便它们在浏览器中正常工作。
