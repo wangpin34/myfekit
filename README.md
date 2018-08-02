@@ -50,7 +50,7 @@
 
 >Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node.
 
-* [webpack](http://webpack.github.io/) 管理所有静态资源，包括 css，图片，等等。
+* [webpack](https://webpack.js.org/concepts/) 管理前端依赖资源。
 * [parceljs](https://parceljs.org/)
 * [requirejs](http://www.requirejs.org/)
 * [seajs](http://seajs.org/docs/)
