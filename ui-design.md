@@ -12,10 +12,15 @@
 font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif
 ```
 ## English font
-代码的字体必须设定为等宽字体（字符宽度相同的字体）。
+等宽字体常用于程序源码。
 ```css
 font-family: Consolas,"Courier New",Courier,FreeMono,monospace
 ```
+扩展阅读：
+* [字体笔记](http://www.ruanyifeng.com/blog/2008/06/typography_notes.html)
+* [等宽字体](https://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/)
+* [CSS font-family 网页字体使用小结](http://moxfive.xyz/2015/12/09/css-font-family/)
+* [The Principles of Beautiful Typography](https://www.sitepoint.com/principles-beautiful-typography/)
 
 ## Photos
 * [unsplash](https://unsplash.com)
